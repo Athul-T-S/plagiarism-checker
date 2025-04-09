@@ -1,4 +1,4 @@
-# 📚 Plagiarism Checker (Python DSA Project)
+# 📚 Plagiarism Checker
 
 A simple command-line tool that compares multiple text files and detects similarity using **TF-IDF** and **cosine similarity**. It uses basic **NLP techniques** and **data structures** to help identify copied content.
 
